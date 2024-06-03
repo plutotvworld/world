@@ -1,0 +1,80 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AllKodi[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/all-kodi.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]AllTvh[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/all-tvh.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]All[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/all.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]All[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/ar-kodi.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ArTvh[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/ar-tvh.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Ar[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/ar.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]BrKodi[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/br-kodi.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]BrTvh[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/br-tvh.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Br1[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/br.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]CaKodi[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/ca-kodi.m3u8</externallink>
+</channel>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]CaTvh[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
+<externallink>https://i.mjh.nz/PlutoTV/ca-tvh.m3u8</externallink>
+</channel>
+
+</channels>
