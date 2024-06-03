@@ -4,7 +4,7 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]AllKodi[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/oVE9LRb.png</thumbnail>
-<externallink>https://i.mjh.nz/PlutoTV/all-kodi.m3u8</externallink>
+<externallink>https://raw.githubusercontent.com/plutotvworld/world/main/all-kodi.xml</externallink>
 </channel>
 
 <channels>
